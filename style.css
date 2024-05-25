@@ -199,8 +199,7 @@ a:hover {
   background-attachment: fixed;
   background-size: cover;
   background-image: url(Hero-bg-img.jpg);
-  /* background-position: center center; */
-  /* filter: brightness(150%); */
+  filter: brightness(150%);
 }
 
 @media (max-width: 1024px) {
